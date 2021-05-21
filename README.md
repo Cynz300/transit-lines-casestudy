@@ -22,21 +22,21 @@ One of the main questions that we had was to determine the typical lifespan of a
 
 Investigating further, the stations that were closed were mostly built around the turn of the ~1900-1930s. Historically, this makes sense with a lot of the rebuilding that occurred as a result of the world wars and explosive booms. The stations were retired after a median 54 years, with 75% of the stations closing by 1972. By this time, the cars and airplanes emerged as alternative options to public transit and aligns historically. There appears to be a slight inverse linear correlation with the age of the station with the year it opened.
 
-![GitHub Logo](png/worldwide_station_age.png)
+![Worldwide Station Closure](png/worldwide_station_age.png)
 
 Diving a bit deeper into the station age, we decided to focus into the top cities that had the most open stations currently. With the number of stations being built, we would expect a sizable turnover of stations with the median turnover age. However what was surprising was how few stations were closed in the cities and when was how long ago the last year were closed. This suggests that the stations were retrofitted and continued for use. Tokyo and New York had a large turnover in the early 1900s.
 
-![GitHub Logo](png/city_station_age.png)
+![Station Closure by City](png/city_station_age.png)
 
 # Station Building
 
 It comes as no surprise that the city with the most stations in the world also has the highest rate of station building.
 
-![Avg_Stations_built](png./Avg_stations_per_year.png)
+![Avg_Stations_built](png/Avg_stations_per_year.png)
 
 
 
-![Stations Created Over Time](png/'Amount of Stations Opened.png']
+![Stations Created Over Time](png/Amount of Stations Opened.png)
 
  Working primarily with the stations tables I paid most attention to the date and location they were opened. I found that cities with existing subways tend not to be focused on building new ones except for Tokyo, who with such a large amount of stations, seem to be constantly building new ones as old ones break down. 
 
