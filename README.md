@@ -8,10 +8,11 @@ The dataset is more fully described on Kaggle, and can be found [here](https://w
 
 # Questions 
 Some questions we decided to tackle include but are not limited to:
-    -What are the cities with the most stations?    
-    -Of said cities, how long is the shelf life of a station?
-    -What is the average tracklength for said cities?
-    -How prolific are cities at building train stations?
+
+    - What are the cities with the most stations?    
+    - Of said cities, how long is the shelf life of a station?
+    - What is the average tracklength for said cities?
+    - How prolific are cities at building train stations?
 
 # Caveat 
 This dataset is partly historical, and thus is missing a lot of values for certain earlier time periods. So, take these evalautions with a grain of salt :)
