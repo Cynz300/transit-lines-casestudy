@@ -6,9 +6,15 @@ This historical and international dataset documents how transit lines have evolv
 
 The dataset is more fully described on Kaggle, and can be found [here](https://www.kaggle.com/citylines/city-lines).
 
-# Exploratory Data Analysis
+# Questions 
+Some questions we decided to tackle include but are not limited to:
+    -What are the cities with the most stations?    
+    -Of said cities, how long is the shelf life of a station?
+    -What is the average tracklength for said cities?
+    -How prolific are cities at building train stations?
 
-After importing and cleaning our data using **pandas**, each team member 
+# Caveat 
+This dataset is partly historical, and thus is missing a lot of values for certain earlier time periods. So, take these evalautions with a grain of salt :)
 
 # Station Lifetimes
 
@@ -21,4 +27,12 @@ Investigating further, the stations that were closed were mostly built around th
 Diving a bit deeper into the station age, we decided to focus into the top cities that had the most open stations currently. What was surprising was how few stations were closed in the cities with the most stations and how many Tokyo and New York had shut down over the last 100 years.
 
 ![GitHub Logo](png/city_station_age.png)
+
+# Station Building
+
+It comes as no surprise that the city with the most stations in the world also has the highest rate of station building
+
+![Avg_Stations_built](png./Avg_stations_per_year.png)
+
+
 
