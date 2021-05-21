@@ -36,7 +36,7 @@ It comes as no surprise that the city with the most stations in the world also h
 
 
 
-![Stations Created Over Time](png/Amount of Stations Opened.png)
+![Stations Created Over Time](png/'Amount of Stations Opened.png')
 
  Working primarily with the stations tables I paid most attention to the date and location they were opened. I found that cities with existing subways tend not to be focused on building new ones except for Tokyo, who with such a large amount of stations, seem to be constantly building new ones as old ones break down. 
 
@@ -46,8 +46,9 @@ I also found a lot of data relating to the opening and closing of stations missi
 'Munich' 'Boston' and 'Shanghai' so I did not graph them.
 
 
-#Length of Tracks
+# Length of Tracks
+
 It would make sense that the cities with the highest densities of station building over time would have the longest overall tracks. Looking at the graphs above and at the graph below there appears to be a correlation. Tokyo and Osaka have the longest Tracks.
 
-![Length of Tracks(png./length_by_city.png)
+![Length of Tracks](png/length_by_city.png)
 
