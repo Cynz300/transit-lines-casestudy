@@ -36,7 +36,7 @@ It comes as no surprise that the city with the most stations in the world also h
 
 
 
-![Stations Created Over Time](png/'Amount of Stations Opened.png')
+![Stations Created Over Time](png/Amount of Stations Opened.png)
 
  Working primarily with the stations tables I paid most attention to the date and location they were opened. I found that cities with existing subways tend not to be focused on building new ones except for Tokyo, who with such a large amount of stations, seem to be constantly building new ones as old ones break down. 
 
