@@ -12,7 +12,8 @@ After importing and cleaning our data using **pandas**, each team member
 
 # Station Lifetimes
 
-While the majority of the stations are still in use, quite a sizable number of stations have closed over the years due to a lack of funding, improvements or migration.
+One of the main questions that we had was to determine the typical lifespan of a station in each area. While the majority of the stations are still in use, quite a sizable number of stations have closed over the years due to a lack of funding, improvements or migration. To answer this, the 
+The 
 ![GitHub Logo](png/worldwide_station_age.png)
 
 
