@@ -1,12 +1,14 @@
-# Background
+# City Urbanization by Station Growth
+
+## Background
 As affectionados of travel and pent-up covid demand, we decided to evaluate the Transit Lines database found as part of our case study completed on May 21st, 2021.
 
-# Data
+## Data
 This historical and international dataset documents how transit lines have evolved all over the world. Besides time, number of lines, and line length, the dataset contains spatial locations that could be mapped using a geospatial library in Python like GeoPandas or Folium.
 
 The dataset is more fully described on Kaggle, and can be found [here](https://www.kaggle.com/citylines/city-lines).
 
-# Questions 
+## Questions 
 Some questions we decided to tackle include but are not limited to:
 
     - What are the cities with the most stations?    
@@ -14,10 +16,10 @@ Some questions we decided to tackle include but are not limited to:
     - What is the average tracklength for said cities?
     - How prolific are cities at building train stations?
 
-# Caveat 
+## Caveat 
 This dataset is partly historical, and thus is missing a lot of values for certain earlier time periods. So, take these evalautions with a grain of salt :)
 
-# Station Lifetimes
+## Station Lifetimes
 
 One of the main questions that we had was to determine the typical lifespan of a station in each city. While the majority of the stations are still in use, a sizable number of stations have closed over the years due to a lack of funding, improvements or migration. To answer this, we initially plotted all the station closures throughout the world in relation to station age frequency and opening date. There appears to be a sharp drop off in station closure age after 65-75 range, which should be expected considering the age and usage. What was surprising was how many units were clustered between 40-60. 
 
@@ -29,7 +31,7 @@ Diving a bit deeper into the station age, we decided to focus into the top citie
 
 ![Station Closure by City](png/city_station_age.png)
 
-# Station Building
+## Station Building
 
 It comes as no surprise that the city with the most stations in the world also has the highest rate of station building.
 
@@ -47,9 +49,11 @@ I also found a lot of data relating to the opening and closing of stations missi
 'Munich' 'Boston' and 'Shanghai' so I did not graph them.
 
 
-# Length of Tracks
+## Length of Tracks
 
 It would make sense that the cities with the highest densities of station building over time would have the longest overall tracks. Looking at the graphs above and at the graph below there appears to be a correlation. Tokyo and Osaka have the longest Tracks.
 
 ![Length of Tracks](png/length_by_city.png)
 
+## Contributors
+Sasha Sabater, Liben Hagos, Andrew Argaez, Ilya Getsin
