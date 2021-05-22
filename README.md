@@ -1,4 +1,4 @@
-# City Urbanization by Station Growth
+# City Urbanization by Transit Station Growth
 
 ## Background
 As affectionados of travel and pent-up covid demand, we decided to evaluate the Transit Lines database found as part of our case study completed on May 21st, 2021.
